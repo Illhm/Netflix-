@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Netflix Cookie Manager</title>
+  <link rel="stylesheet" type="text/css" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Netflix Cookie Manager</h2>
+
+    <div class="input-group">
+      <label for="cookieName">Name:</label>
+      <input type="text" id="cookieName" placeholder="e.g. nf_vd_token">
+    </div>
+
+    <div class="input-group">
+      <label for="cookieValue">Value:</label>
+      <input type="text" id="cookieValue" placeholder="Cookie Value">
+    </div>
+
+    <button id="addCookieBtn">Add Cookie</button>
+    <div id="status" class="status"></div>
+
+    <h3>Active Cookies</h3>
+    <ul id="cookieList"></ul>
+
+    <button id="launchBtn" class="primary-btn">Launch Netflix</button>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
