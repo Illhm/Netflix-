@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Netflix Cookie Manager",
+  "version": "1.0",
+  "description": "Manage custom cookies for Netflix and launch the site.",
+  "permissions": [
+    "cookies",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://*.netflix.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Manage Netflix Cookies"
+  }
+}
