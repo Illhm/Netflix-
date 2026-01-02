@@ -1,0 +1,13 @@
+Access-Control-Allow-Headers: x-requested-with, Content-Type, origin, authorization, accept, client-security-token, username, password, source
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Origin: *
+Connection: Keep-Alive
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 02 Jan 2026 20:36:17 GMT
+Keep-Alive: timeout=600, max=72
+Server: Apache
+Transfer-Encoding: chunked
+Vary: Authorization
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block

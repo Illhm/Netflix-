@@ -1,0 +1,7 @@
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlOWNlYmViMS01Mzc0LTRiOGMtYmVkOS1kZGYxMGMzZjdhZDciLCJzdWIiOiJkaXJ1NzY4QGdtYWlsLmNvbSIsInJlZnJlc2hfdG9rZW4iOiI1NzYxZDlkYy1lMjM1LTRlYjUtYWE0My0xMWRiZWU0ZjJjZGIiLCJleHAiOjE3NzI1NzAxMzAsInJlZmVzaF90b2tlbl9leHAiOjE3ODI5MzgxMzAsInNjb3BlIjoiYWN0aXZpdHkudXNlciBkaXNjdXNzaW9uLmNyZWF0ZSBkaXNjdXNzaW9uLnJlYWN0IHN0b3J5LnJlYWN0IHJlcG9ydC5jcmVhdGUifQ.XcZqW7XMNJ4z7_cdtLz3BGDOhvPD7JRgHtq6ZCKzu_0
+Referer: https://jaga.id/pelayanan-publik/fasilitas-kesehatan?vnk=3400046a
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"
+sec-ch-ua-mobile: ?1
+sec-ch-ua-platform: "Android"

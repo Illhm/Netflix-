@@ -1,0 +1,8 @@
+URL: https://jaga.id/api/v5/captchas/generate
+Method: POST
+Status: 200 OK
+MIME: application/json
+Size: 6525
+Started: 2026-01-02T20:36:17.935Z
+Time(ms): 514
+Category: xhr
