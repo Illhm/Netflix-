@@ -1,0 +1,8 @@
+URL: https://jaga.id/api/v5/bpjs/detail?nik=3317110608050001&tgl_lahir=2005-08-06&captcha_uuid=6aacde23-7b3a-4270-bae4-dbf905f5661f&captcha_answer=K633v
+Method: GET
+Status: 200 OK
+MIME: application/json
+Size: 753
+Started: 2026-01-02T20:36:16.847Z
+Time(ms): 1062
+Category: xhr
